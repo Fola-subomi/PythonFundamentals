@@ -13,7 +13,7 @@ A collection of beginner-to-intermediate Python projects built to strengthen my 
 | 🌤️ [Weather App](03_weather_app) | Fetches live weather data using an API | Requests, JSON |
 | 📂 [File Organizer](04_file_organizer) | Automatically sorts files by extension | Automation, OS module |
 | 🕵️‍♀️ [Web Scraper](05_web_scraper) | Scrapes quotes and authors from a website | BeautifulSoup, data parsing |
-| 💰 [Expense Tracker](07_expense_tracker) | Tracks daily expenses and calculates totals | File I/O, CSV handling |
+| 💰 [Expense Tracker](07_expense_tracker) | Tracks daily expenses and calculates totals | File I/O, OOP |
 
 ---
 
