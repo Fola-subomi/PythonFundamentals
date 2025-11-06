@@ -3,7 +3,7 @@
 # 🌤️ Weather App
 
 Fetches real-time weather data using the OpenWeatherMap API.
-
+GUI using Tkinter
 ### 🧠 Concepts Covered
 - Working with APIs and JSON data  
 - Error handling for network issues  
