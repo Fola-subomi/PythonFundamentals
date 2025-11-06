@@ -1,1 +1,12 @@
-#Basic Calculator Project
+# 🧮 Basic Calculator
+
+A simple calculator that performs addition, subtraction, multiplication, and division.
+
+### 🧠 Concepts Covered
+- Functions and conditionals  
+- User input handling  
+- Error handling with `try/except`
+
+### ▶️ Run the App
+```bash
+python calculator.py
